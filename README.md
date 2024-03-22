@@ -3,6 +3,7 @@ Overview:
 This project aims to clean and standardize the 'NashvilleHousing' dataset from the 'PortfolioProject' database. The dataset contains information about property sales, including date, address, owner details, and sale prices.
 
 Steps Taken:
+
 1.Standardize Sale Date Format:
 Added 'SaleDateConverted' column to store standardized date format.
 
